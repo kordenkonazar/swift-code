@@ -1,11 +1,3 @@
-//
-//  NoteModel.swift
-//  Muktasar
-//
-//  Created by Alex Z on 10/6/20.
-//  Copyright © 2020 Artem Rizhov. All rights reserved.
-//
-
 import Foundation
 
 struct NoteModel {
